@@ -10,4 +10,4 @@ jupyterlab==2.0.1
 numba==0.48.0
 tensorflow==2.1.0
 idx2numpy==1.2.2
-opencv-python==4.2.0.32
+imagesize==1.2.0
