@@ -11,3 +11,4 @@ numba==0.48.0
 tensorflow==2.1.0
 idx2numpy==1.2.2
 imagesize==1.2.0
+tensorflow_datasets==2.1.0
